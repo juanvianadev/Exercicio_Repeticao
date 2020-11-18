@@ -16,7 +16,7 @@ namespace Exercicio1
             nota = int.Parse(Console.ReadLine());
             }
             Console.WriteLine("Obrigado!");
-
+            //Fim
         }
     }
 }
